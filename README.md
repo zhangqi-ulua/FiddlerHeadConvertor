@@ -1,0 +1,2 @@
+# FiddlerHeadConvertor
+Fiddler抓包Header信息转换器，可以将Fiddler抓包信息中的Header转为Java和C#代码，以及ApiPost可导入的Json
